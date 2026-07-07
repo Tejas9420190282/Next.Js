@@ -1,0 +1,4 @@
+
+1) We use '<Link href>' insted of <a href> or useNavigate (useNavigate is used in react) for redirect the page from a to b without refresh te page.
+
+2) We write the Navbars code in root layout file so all the routes can visibles that Navbar
