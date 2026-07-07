@@ -1,0 +1,6 @@
+
+1) npx create-next-app@latest
+
+2) give name iof project
+
+3) 
