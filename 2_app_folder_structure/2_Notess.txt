@@ -1,0 +1,14 @@
+
+- Folder Structure
+
+my-next-app/
+│
+├── app/
+    ├── page.jsx    
+    ├── layout.js   =============> This is root layout file of the hole project. When we write anything in this file, it will visible in all the project pages.
+    ├── about/
+    |       ├── page.jsx    =============> This code's result will visible on "http://localhost:3000/about" url.
+    |       ├── layout.js   =============>  This is root layout file of "/about" route. When we write anything in this file, it will visible in "/about" url pages.
+    ├── contact/
+    |       ├── page.jsx    =============> This code's result will visible on "http://localhost:3000/contact" url.
+    |       ├── layout.js   =============>  This is root layout file of "/layout" route. When we write anything in this file, it will visible in "/about" url pages.
