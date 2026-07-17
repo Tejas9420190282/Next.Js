@@ -1,4 +1,6 @@
+
 // page.js
+
 import { action } from "./action";
 
 function Home() {
